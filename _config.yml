@@ -17,6 +17,6 @@ markdown: kramdown
 permalink: /:year/:title
 
 # These are new (in addition to Jekyll's elements above )
-organization: Your Organization
+organization: Health Centre Name
 placeholderimagesbaseurl: http://placehold.it/
 
